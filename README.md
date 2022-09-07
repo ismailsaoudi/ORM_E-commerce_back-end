@@ -22,6 +22,9 @@ Node, NPM, Insomnia, MySQL, and VS Code
 Please see demonstration by following the YouTube link. 
 
 Demo Link for VS code command line operations: 
+
+[mysqlcommandsandnpm.webm](https://user-images.githubusercontent.com/96844004/188932622-e7468666-d19d-4173-a152-1449556783d0.webm)
+
 Demo Link Insomnia CRUD operations: 
 
 ## Credits
