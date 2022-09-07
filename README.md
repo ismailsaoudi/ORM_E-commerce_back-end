@@ -21,8 +21,8 @@ Node, NPM, Insomnia, MySQL, and VS Code
 
 Please see demonstration by following the YouTube link. 
 
-Demo Link for VS code command line operations: https://www.youtube.com/watch?v=gQr95OtTaWY
-Demo Link Insomnia CRUD operations: https://www.youtube.com/watch?v=eob1dNCph9E
+Demo Link for VS code command line operations: 
+Demo Link Insomnia CRUD operations: 
 
 ## Credits
 
@@ -46,6 +46,6 @@ Instructor Phil Loy and esroleo on GitHub for examples.
 
 ## Questions
 
-[GitHub Repository](https://github.com/fubaru)
+[GitHub Repository](https://github.com/ismailsaoudi/ORM_E-commerce_back-end)
 
-Reach me via email for additional questions: austinfu0422@gmail.com# ORM_E-commerce_back-end
+Reach me via email for additional questions: ismail.saoudi@icloud.com# ORM_E-commerce_back-end
