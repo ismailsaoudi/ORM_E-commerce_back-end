@@ -27,6 +27,10 @@ Demo Link for VS code command line operations:
 
 Demo Link Insomnia CRUD operations: 
 
+https://user-images.githubusercontent.com/96844004/188936773-2972ba1a-def9-4bb9-9829-e625e073cf7a.mp4
+
+
+
 ## Credits
 
 Instructor Phil Loy and esroleo on GitHub for examples.
